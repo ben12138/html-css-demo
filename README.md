@@ -4,11 +4,10 @@
 ## 1. Project-1-Imooc Life(慕课生活主页)
 
 ### 1.1 效果图：
-!(效果图)[./project-1/Design-Sketch.png]
+![效果图](./project-1/Design-Sketch.png)
 
 ## 2. Project-2-Tec Life(技术生活主页)
 
 ### 2.1 效果图：
-!(效果图)[./project-1/Design-Sketch.png]
+![效果图](./project-2/Design-Sketch.png)
 
-![Hello](http://www.baidu.com/img/bd_logo1.png)
