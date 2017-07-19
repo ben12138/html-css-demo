@@ -11,4 +11,4 @@
 ### 2.1 效果图：
 !(效果图)[./project-1/Design-Sketch.png]
 
-![Hello](www.baidu.com/img/bd_logo1.png)
+![Hello](http://www.baidu.com/img/bd_logo1.png)
